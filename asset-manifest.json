@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kravamax/06-create-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/kravamax/06-create-react-app/static/js/main.377d832e.js",
+    "static/js/787.ec15c520.chunk.js": "/kravamax/06-create-react-app/static/js/787.ec15c520.chunk.js",
+    "static/media/logo.svg": "/kravamax/06-create-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kravamax/06-create-react-app/index.html",
+    "main.073c9b0a.css.map": "/kravamax/06-create-react-app/static/css/main.073c9b0a.css.map",
+    "main.377d832e.js.map": "/kravamax/06-create-react-app/static/js/main.377d832e.js.map",
+    "787.ec15c520.chunk.js.map": "/kravamax/06-create-react-app/static/js/787.ec15c520.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.377d832e.js"
+  ]
+}
